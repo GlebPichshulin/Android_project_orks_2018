@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         /** this is my minor changing*/
-        /** Glebs' my minor changes*/
+        /** Glebs' my minor changes 2*/
     }
 }
